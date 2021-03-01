@@ -4,14 +4,14 @@
 <web-app>
 	<servlet-mapping>
 		<servlet-name>LoginServlet</servlet-name>
-		<servlet-class>com.yuer.mytomcat.dymatic.pro.plus.AAServlet</servlet-class>
+		<servlet-class>com.siwei.mytomcat.dymatic.pro.plus.AAServlet</servlet-class>
 		<url-pattern>login</url-pattern>
 	</servlet-mapping>
 
 
 	<servlet-mapping>
 		<servlet-name>BBServlet</servlet-name>
-		<servlet-class>com.yuer.mytomcat.dymatic.pro.BBServlet</servlet-class>
+		<servlet-class>com.siwei.mytomcat.dymatic.pro.BBServlet</servlet-class>
 		<url-pattern>bb</url-pattern>
 	</servlet-mapping>
 	

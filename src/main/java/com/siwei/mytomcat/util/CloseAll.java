@@ -1,4 +1,4 @@
-package com.yuer.mytomcat.util;
+package com.siwei.mytomcat.util;
 
 import java.io.Closeable;
 import java.io.IOException;

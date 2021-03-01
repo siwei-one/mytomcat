@@ -1,4 +1,4 @@
-package com.yuer.mytomcat.util;
+package com.siwei.mytomcat.util;
 
 public class FinalString {
 	

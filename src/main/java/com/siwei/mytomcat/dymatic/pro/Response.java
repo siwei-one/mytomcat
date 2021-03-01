@@ -1,4 +1,4 @@
-package com.yuer.mytomcat.dymatic.pro;
+package com.siwei.mytomcat.dymatic.pro;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.yuer.mytomcat.util.CloseAll;
+import com.siwei.mytomcat.util.CloseAll;
 
 /**
  * 响应请求读取文件并写回到浏览器
